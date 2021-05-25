@@ -7,6 +7,8 @@ public class BranchingPractice {
         //shared project on github
 
         //another commit
+        //another commit before merging
+        
 
     }
 }
